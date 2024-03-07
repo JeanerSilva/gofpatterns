@@ -1,6 +1,7 @@
 ## Resumo
 
 - Singleton = acesso a banco de dados
-- Factory = hamburgers ou placas de vídeos ASUS e GPU (classe GPU)
-- Abstract Factory = componentes (monitores MSI, GPUs MSI, monitores ASUS e GPU ASUS) - classe Component
-- 
+- Simple Factory = hamburgers. Classes Burger, BeefBurger e VeggieBurger + SimpleBurgerFactory
+- Factory Method = placas de vídeos ASUS e GPU. Classes GPU, MsiGpu e AsusGpu + Asus e Msi Manufacturer
+- Abstract Factory = componentes (monitores MSI, GPUs MSI, monitores ASUS e GPU ASUS) - Classes AsusGpu + Asus e Msi Manufacturer + Component (como abstração)
+- Abstract Factory Design = retira os componentes e cria uma intergface para cada tipo de produto (monitores e GPUs)

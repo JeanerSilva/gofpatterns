@@ -1,4 +1,4 @@
-package simplefactory;
+package src.main.java.factory.simplefactory;
 
 public class Teste {
     public static void main (String[] args){

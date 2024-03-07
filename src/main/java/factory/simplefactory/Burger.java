@@ -1,4 +1,4 @@
-package factorypattern;
+package src.main.java.factory.simplefactory;
 
 class Burger {
     private int produtcId;

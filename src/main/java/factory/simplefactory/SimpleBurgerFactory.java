@@ -1,4 +1,4 @@
-package simplefactory;
+package src.main.java.factory.simplefactory;
 
 public class SimpleBurgerFactory {
     public Burger createBurger(BurgerTypes burgerType){

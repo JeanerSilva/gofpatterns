@@ -1,4 +1,4 @@
-package src.main.java.factory.factorypattern;
+package factory.factorypattern;
 
 public enum BurgerTypes {
     BEEF,

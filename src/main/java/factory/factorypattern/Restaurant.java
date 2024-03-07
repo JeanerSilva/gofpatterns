@@ -1,5 +1,4 @@
-package src.main.java.factory.factorypattern;
-
+package factory.factorypattern;
 public abstract class Restaurant {
     public Burger orderBurger(){
         Burger burger = createBurger();

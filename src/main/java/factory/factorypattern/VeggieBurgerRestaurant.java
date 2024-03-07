@@ -1,4 +1,4 @@
-package src.main.java.factory.factorypattern;
+package factory.factorypattern;
 
 public class VeggieBurgerRestaurant extends Restaurant {
     @Override

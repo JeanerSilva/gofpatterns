@@ -1,4 +1,4 @@
-package src.main.java.singleton.singletonbasic;
+package singleton.singletonbasic;
 
 public class Singleton {
     

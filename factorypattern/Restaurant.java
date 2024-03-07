@@ -1,4 +1,4 @@
-package factory;
+package factorypattern;
 
 public abstract class Restaurant {
     public Burger orderBurger(){

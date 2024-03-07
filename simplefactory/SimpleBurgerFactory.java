@@ -1,4 +1,4 @@
-package factoryold;
+package simplefactory;
 
 public class SimpleBurgerFactory {
     public Burger createBurger(BurgerTypes burgerType){

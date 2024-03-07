@@ -1,4 +1,4 @@
-package factory;
+package factorypattern;
 
 public class BeefBurgerRestaurant extends Restaurant {
 

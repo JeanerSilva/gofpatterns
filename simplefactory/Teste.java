@@ -1,4 +1,4 @@
-package factoryold;
+package simplefactory;
 
 public class Teste {
     public static void main (String[] args){

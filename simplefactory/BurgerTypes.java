@@ -1,4 +1,4 @@
-package factoryold;
+package simplefactory;
 
 public enum BurgerTypes {
     BEEF,

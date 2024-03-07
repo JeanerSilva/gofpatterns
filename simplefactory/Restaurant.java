@@ -1,4 +1,4 @@
-package factoryold;
+package simplefactory;
 
 public class Restaurant {
     public Burger orderBurger(BurgerTypes burgerType){

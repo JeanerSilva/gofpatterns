@@ -1,4 +1,4 @@
-package factoryold;
+package simplefactory;
 
 class Burger {
     private int produtcId;

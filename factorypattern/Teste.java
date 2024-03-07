@@ -1,4 +1,4 @@
-package factory;
+package factorypattern;
 
 public class Teste {
     public static void main (String[] args){

@@ -1,4 +1,4 @@
-package factoryold;
+package simplefactory;
 
 public class VeggieBurger extends Burger {
 

@@ -1,4 +1,4 @@
-package factory;
+package factorypattern;
 
 public class BeefBurger extends Burger {
 
